@@ -1,0 +1,68 @@
+:root {
+    /* SIZING */
+    --max-width: 60rem;
+
+    /* COLORS */
+    --background-fill: hsl(0, 0%, 100%);
+    --text-default: hsla(36, 20%, 13%, 1);
+    --text-muted: hsla(36, 15%, 50%, 1);
+    --text-white: hsla(0, 0%, 100%, 1);
+    --text-danger: hsla(360, 95%, 50%, 1);
+    --text-success: hsla(126, 84%, 40%, 1);
+}
+
+html, body {
+    height: 100%;
+}
+
+
+body {
+    background-color: var(--background-fill);
+    background-repeat: no-repeat;
+    background-size: 100% 26rem;
+    color: var(--text-default);
+    margin: 0;
+}
+
+.middle-text {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 80%;
+}
+
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.left {
+    left: 0;
+}
+.background{
+    background-image: url(https://media.istockphoto.com/id/500018762/vector/set-of-restaurant-icons.jpg?s=612x612&w=0&k=20&c=Ztul2WDkOiJ52xU0AvpW--_c1WlF-etJyw4xvtOuISc=);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    opacity: 20%;
+}
+.right {
+    right: 0;
+    background-color: rgba(255, 255, 255, 0.18);
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+

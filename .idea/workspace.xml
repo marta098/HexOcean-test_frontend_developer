@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96bbf59b-f1fe-4c75-bf85-b8c494fa3d3b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/src/components/Commons/BaseButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/src/components/Commons/CustomSnackbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/src/components/OrderInformation/OrderInformation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/src/components/OrderInformation/OrderInformation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/src/components/OrderInformation/OrderInformationInputRow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/src/components/OrderInformation/OrderInformationSelectRow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/src/components/OrderResponse/OrderResponse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/src/hooks/CustomizedTimeInput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/src/hooks/useInputState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/src/hooks/useSnackbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/src/pages/OrderInformationPage/OrderInformationPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/src/services/request-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/src/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/martazuk-solution/src/utils/orderUtils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/martazuk-solution" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QEzOlVFnRdKK76HQ3G2I41pwe1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/martazuk-solution/node_modules/react-scripts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2021.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GIT\HexOcean-test_frontend_developer" />
+      <recent name="D:\GIT\HEXOCEAN" />
+      <recent name="D:\GIT\HEXOCEAN\martazuk-solution" />
+      <recent name="D:\GIT\HEXOCEAN\martazuk-solution\src\components\OrderInformation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="renders learn react link" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/martazuk-solution/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/martazuk-solution" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/martazuk-solution/src/App.test.js" />
+      <test-names>
+        <test-name value="renders learn react link" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/martazuk-solution/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.renders learn react link" />
+        <item itemvalue="Jest.renders learn react link" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96bbf59b-f1fe-4c75-bf85-b8c494fa3d3b" name="Changes" comment="" />
+      <created>1684933498252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684933498252</updated>
+      <workItem from="1684933499639" duration="23604000" />
+      <workItem from="1685007056198" duration="37335000" />
+      <workItem from="1685112674052" duration="3962000" />
+      <workItem from="1685117086062" duration="374000" />
+    </task>
+    <task id="LOCAL-00001" summary="Upload project.">
+      <created>1685109128891</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685109128891</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Upload project.">
+      <created>1685110697594</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685110697594</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Upload project." />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload project." />
+  </component>
+</project>
